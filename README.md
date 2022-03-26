@@ -3,7 +3,7 @@
 
 <h3> Other Info.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rjnp2/rjnp2](https://github.com/rjnp2/rjnp2)
+- 👨‍💻 All of my projects are available at [https://github.com/rjnp2](https://github.com/rjnp2)
 
 - 📫 How to reach me **12pnrj@gmail.com**
 
