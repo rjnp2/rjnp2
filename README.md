@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rajan Pandey (rjnp2)</h1>
+<h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rjnp2&label=Profile%20views&color=0e75b6&style=flat" alt="rjnp2" /> </p>Hi 👋, I'm Rajan Pandey (rjnp2) </h1>
 <h3 align="center">A passionate Python, AI, Web Scraper and Django developer from Nepal.<br>Computer engineering student with self motivation and responsibility, pursuing a career as a Python and Django developer and data science. Self-learned tool and framework such as Django, machine learning and deep-learning and have good skills and experience in tools andComputer engineering student with self motivation and responsibility, pursuing a career as a Python and Django developer and data science. Self-learned tool and framework such as Django, machine learning and deep-learning and have good skills and experience in tools and methods. methods.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjnp2&label=Profile%20views&color=0e75b6&style=flat" alt="rjnp2" /> </p>
+<h3> Other Info.</h3>
+  . 👨‍💻 All of my projects are available at [https://github.com/rjnp2/rjnp2](https://github.com/rjnp2/rjnp2)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjnp2" alt="rjnp2" /></a> </p>
+  . 📫 How to reach me **12pnrj@gmail.com**
+
+  . 📄 Know about my experiences [https://drive.google.com/file/d/1ubxDNf6YTzbqtfm2zTGP1suPWQDH0RIf/view?usp=sharing](https://drive.google.com/file/d/1ubxDNf6YTzbqtfm2zTGP1suPWQDH0RIf/view?usp=sharing)
+
+<h3> GitHub Profile Trophy</h3>
+<p align="center", margin='10px'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjnp2&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="rjnp2" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rjnp2&show_icons=true&locale=en&layout=compact" alt="rjnp2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rjnp2&show_icons=true&locale=en" alt="rjnp2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjnp2&" alt="rjnp2" /></p>
