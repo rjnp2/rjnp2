@@ -3,11 +3,11 @@
 
 <h3> Other Info.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rjnp2](https://github.com/rjnp2)
+- 👨‍💻 All of my projects are available at [here](https://github.com/rjnp2)
 
-- 📫 How to reach me **12pnrj@gmail.com**
+- 📫 [How to reach me](12pnrj@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ubxDNf6YTzbqtfm2zTGP1suPWQDH0RIf/view?usp=sharing](https://drive.google.com/file/d/1ubxDNf6YTzbqtfm2zTGP1suPWQDH0RIf/view?usp=sharing)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1ubxDNf6YTzbqtfm2zTGP1suPWQDH0RIf/view?usp=sharing)
 
 <h3> GitHub Profile Trophy</h3>
 <p align="center", margin='10px'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rjnp2&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="rjnp2" /></a> </p>
