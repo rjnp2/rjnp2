@@ -1,5 +1,5 @@
 <h1 align="center"><p align="left"> <img src="https://komarev.com/ghpvc/?username=rjnp2&label=Profile%20views&color=0e75b6&style=flat" alt="rjnp2" /> </p>Hi 👋, I'm Rajan Pandey (rjnp2) </h1>
-<h3 align="center">A passionate Python, AI, Web Scraper and Django developer from Nepal.<br>Computer engineering student with self motivation and responsibility, pursuing a career as a Python and Django developer and data science. Self-learned tool and framework such as Django, machine learning and deep-learning and have good skills and experience in tools andComputer engineering student with self motivation and responsibility, pursuing a career as a Python and Django developer and data science. Self-learned tool and framework such as Django, machine learning and deep-learning and have good skills and experience in tools and methods. methods.</h3>
+<h3 align="center">A passionate Python, AI, Web Scraper and Django developer from Nepal.<br>Computer engineering student with self motivation and responsibility, pursuing a career as a Python and Django developer and data science. Self-learned tool and framework such as Django, machine learning and deep-learning and have good skills and experience in tools and methods.</h3>
 
 <h3> Other Info.</h3>
 
